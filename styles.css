@@ -11,6 +11,7 @@
     --shadows:  0px 5px 15px rgba(0, 0, 0, 0.2),
     0px 10px 30px rgba(0, 0, 0, 0.1),
     0px 20px 60px rgba(0, 0, 0, 0.05);
+    --azul: #002f52;
 }
 
 body {
@@ -19,4 +20,3 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
-
